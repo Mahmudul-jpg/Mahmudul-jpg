@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Mahmudul Hasan
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 I am  from Dhaka, Bangladesh. I am MERN Stack Developer.
 
