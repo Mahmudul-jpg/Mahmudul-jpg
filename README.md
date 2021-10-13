@@ -2,7 +2,12 @@
 
 I am Mahmudul Hasan from Dhaka, Bangladesh. I am MERN Stack Developer
 
-Skills: REACT / JS / HTML / CSS /SASS /C /C++ /C# /MongoDB /NodeJS 
+🛠  Tech Stack
+HTML  CSS  Bootstrap  SASS 
+JavaScript  React.js  Node.js  Express.js 
+Mongodb  MySQL 
+C C++ C# 
+Git  GitHub  Visual Studio Code 
 
 🔭 I’m currently working on React.
 
