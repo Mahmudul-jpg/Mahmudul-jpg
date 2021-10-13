@@ -1,15 +1,16 @@
-### Hi there 👋, Mahmudul Hasan
+### Hi there 👋, my name is Mahmudul Hasan
+![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I am Mahmudul Hasan from Dhaka, Bangladesh. I am MERN Stack Developer
+I am  from Dhaka, Bangladesh. I am MERN Stack Developer.
 
-🛠  Tech Stack
-HTML  CSS  Bootstrap  SASS 
-JavaScript  React.js  Node.js  Express.js 
-Mongodb  MySQL 
-C C++ C# 
-Git  GitHub  Visual Studio Code 
 
-🔭 I’m currently working on React.
+Skills: HTML/ CSS / BOOTSTRAP / SASS / JAVASCRIPT/REACT.JS / NODE.JS / EXPRESS.JS / MONGODB  / MYSQL / C / C++ / C# / GIT / GITHUB / VISUAL STUDIO CODE
+
+-🔭 I’m currently working on React.
+
+
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahmudul-jpg)](https://github.com/anuraghazra/github-readme-stats)
 
